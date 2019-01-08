@@ -1,0 +1,4 @@
+1. git log -p
+2. git log --stat
+3. git show <hash>
+4. 显示暂存区和上一条提交之间的不同：git diff --staged<--cached>
