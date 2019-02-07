@@ -1,3 +1,3 @@
 git 修改commit message.
 
-git rebase
+git rebase 的使用
