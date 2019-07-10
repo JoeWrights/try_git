@@ -5,3 +5,6 @@ git rebase 的使用
 
 参数
 - s 
+
+
+merge merge
