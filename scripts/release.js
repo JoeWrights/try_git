@@ -48,6 +48,10 @@ async function release(options) {
                     value: "beta"
                 },
                 {
+                    name: "下一个(next)",
+                    value: "next"
+                },
+                {
                     name: "候选(rc)",
                     value: "rc"
                 },

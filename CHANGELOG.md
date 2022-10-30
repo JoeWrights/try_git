@@ -1,4 +1,4 @@
-## [v1.0.1-rc.0](https://github.com/JoeWrights/try_git/compare/v1.0.0...v1.0.1-rc.0) (2022-10-30)
+## [v1.0.1-next.0](https://github.com/JoeWrights/try_git/compare/v1.0.0...v1.0.1-next.0) (2022-10-30)
 
 
 ### Bug Fixes
