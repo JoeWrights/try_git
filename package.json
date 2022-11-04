@@ -1,12 +1,13 @@
 {
   "name": "try_git",
-  "version": "1.0.1-next.0",
+  "version": "1.0.1-alpha.2",
   "main": "index.js",
   "repository": "https://github.com/JoeWrights/try_git.git",
   "author": "JoeWright <1035208578@qq.com>",
   "license": "MIT",
   "scripts": {
-    "release": "node scripts/release.js"
+    "release": "node scripts/release.js",
+    "build": "echo build"
   },
   "devDependencies": {
     "conventional-changelog": "^3.1.25",
