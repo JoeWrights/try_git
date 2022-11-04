@@ -1,4 +1,8 @@
-## [v1.0.1-alpha.2](https://github.com/JoeWrights/try_git/compare/v1.0.0...v1.0.1-alpha.2) (2022-11-04)
+## [v1.0.1-alpha.3](https://github.com/JoeWrights/try_git/compare/1.0.1-alpha.2...1.0.1-alpha.3) (2022-11-04)
+
+
+
+## [1.0.1-alpha.2](https://github.com/JoeWrights/try_git/compare/v1.0.0...1.0.1-alpha.2) (2022-11-04)
 
 
 ### Bug Fixes

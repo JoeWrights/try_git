@@ -27,5 +27,6 @@ module.exports = (version) => {
             )
             await execa("git", ["push"], { stdio: "inherit" })
             await execa("git", ["tag", "-a", `${version}`, "-m", `${version}`], { stdio: "inherit" })
+            await execa("git", ["push", "origin", `${version}`], { stdio: "inherit" })
         })
 }
