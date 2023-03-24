@@ -1,4 +1,8 @@
-## [v1.0.1-alpha.4](https://github.com/JoeWrights/try_git/compare/1.0.1-alpha.3...1.0.1-alpha.4) (2023-02-11)
+## [v1.0.1-beta.1](https://github.com/JoeWrights/try_git/compare/1.0.1-alpha.4...1.0.1-beta.1) (2023-02-11)
+
+
+
+## [1.0.1-alpha.4](https://github.com/JoeWrights/try_git/compare/1.0.1-alpha.3...1.0.1-alpha.4) (2023-02-11)
 
 
 
