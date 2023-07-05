@@ -1,4 +1,4 @@
-## [v1.0.1-beta.2](https://github.com/JoeWrights/try_git/compare/1.0.1-beta.1...1.0.1-beta.2) (2023-07-05)
+## [v1.0.1-beta.3](https://github.com/JoeWrights/try_git/compare/1.0.1-beta.1...1.0.1-beta.3) (2023-07-05)
 
 
 ### Features
