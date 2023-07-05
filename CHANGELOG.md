@@ -1,4 +1,15 @@
-## [v1.0.1-beta.1](https://github.com/JoeWrights/try_git/compare/1.0.1-alpha.4...1.0.1-beta.1) (2023-02-11)
+## [v1.0.1-beta.2](https://github.com/JoeWrights/try_git/compare/1.0.1-beta.1...1.0.1-beta.2) (2023-07-05)
+
+
+### Features
+
+* 1.1 ([3be96f4](https://github.com/JoeWrights/try_git/commit/3be96f4e17b249a50d6d6d40e89c5059a9144d35))
+* add f.txt ([9e75ce0](https://github.com/JoeWrights/try_git/commit/9e75ce0615e162df9f14937349c0921ef15b65f5))
+* feat 1 ([5ce6d8d](https://github.com/JoeWrights/try_git/commit/5ce6d8d365f4ff240e39a6b8bb592252ba97718a))
+
+
+
+## [1.0.1-beta.1](https://github.com/JoeWrights/try_git/compare/1.0.1-alpha.4...1.0.1-beta.1) (2023-02-11)
 
 
 
