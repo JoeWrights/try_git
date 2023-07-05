@@ -1,3 +1,4 @@
 {
-    "autoTag": true
+    "autoTag": true,
+    "packageJsonFileIndent": 4
 }
