@@ -6,7 +6,7 @@
   "author": "JoeWright <1035208578@qq.com>",
   "license": "MIT",
   "scripts": {
-    "release": "node scripts/release.js",
+    "release": "node ./node_modules/@hg/hg-info-release-cli/lib/bin/index.js",
     "build": "echo build"
   },
   "devDependencies": {
