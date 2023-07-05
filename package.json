@@ -1,18 +1,18 @@
 {
-  "name": "try_git",
-  "version": "1.0.1-beta.3",
-  "main": "index.js",
-  "repository": "https://github.com/JoeWrights/try_git.git",
-  "author": "JoeWright <1035208578@qq.com>",
-  "license": "MIT",
-  "scripts": {
-    "release": "node ./node_modules/@hg/hg-info-release-cli/lib/bin/index.js --config ./config/release.config.json",
-    "build": "echo build"
-  },
-  "devDependencies": {
-    "conventional-changelog": "^3.1.25",
-    "execa": "^2.0.4",
-    "inquirer": "7.0.0",
-    "semver": "^7.3.8"
-  }
+    "name": "try_git",
+    "version": "1.0.1-beta.4",
+    "main": "index.js",
+    "repository": "https://github.com/JoeWrights/try_git.git",
+    "author": "JoeWright <1035208578@qq.com>",
+    "license": "MIT",
+    "scripts": {
+        "release": "node ./node_modules/@hg/hg-info-release-cli/lib/bin/index.js --config ./config/release.config.json",
+        "build": "echo build"
+    },
+    "devDependencies": {
+        "conventional-changelog": "^3.1.25",
+        "execa": "^2.0.4",
+        "inquirer": "7.0.0",
+        "semver": "^7.3.8"
+    }
 }
