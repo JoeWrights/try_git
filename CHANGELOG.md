@@ -1,4 +1,13 @@
-## [v1.0.1-beta.5](https://github.com/JoeWrights/try_git/compare/1.0.1-beta.4...1.0.1-beta.5) (2023-07-05)
+## [v1.0.1-alpha.0](https://github.com/JoeWrights/try_git/compare/1.0.1-beta.5...1.0.1-alpha.0) (2023-07-18)
+
+
+### Features
+
+* update f.txt ([4f4b993](https://github.com/JoeWrights/try_git/commit/4f4b993b40ef1b7ef39cf0c9a09b738e6756fe2a))
+
+
+
+## [1.0.1-beta.5](https://github.com/JoeWrights/try_git/compare/1.0.1-beta.4...1.0.1-beta.5) (2023-07-05)
 
 
 
