@@ -1,4 +1,13 @@
-## [v1.0.1-alpha.5](https://github.com/JoeWrights/try_git/compare/1.0.1-alpha.1...1.0.1-alpha.5) (2023-07-18)
+## [v1.0.1-alpha.6](https://github.com/JoeWrights/try_git/compare/1.0.1-alpha.5...1.0.1-alpha.6) (2023-07-18)
+
+
+### Bug Fixes
+
+* fix g.txt ([aba231c](https://github.com/JoeWrights/try_git/commit/aba231c12d42b9c9920542f3fa7863cdd75acc33))
+
+
+
+## [1.0.1-alpha.5](https://github.com/JoeWrights/try_git/compare/1.0.1-alpha.1...1.0.1-alpha.5) (2023-07-18)
 
 
 
