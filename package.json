@@ -1,6 +1,6 @@
 {
     "name": "try_git",
-    "version": "1.0.1-alpha.2",
+    "version": "1.0.1-alpha.3",
     "main": "index.js",
     "repository": "https://github.com/JoeWrights/try_git.git",
     "author": "JoeWright <1035208578@qq.com>",
